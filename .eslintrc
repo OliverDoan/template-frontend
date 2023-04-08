@@ -40,5 +40,8 @@
         "singleQuote": true
       }
     ]
+  },
+  "env": {
+    "node": true
   }
 }
